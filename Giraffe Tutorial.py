@@ -112,5 +112,15 @@ print(str(my_num2) + " is my favourite number")
 # You can import further math functions/external code into our file
 
 # Getting input from users
+input()
+input("Enter your name: ")
+name = input("Enter your name: ")
+print("Hello" + name + "!")
+age = input("Enter your age: ")
+print("You are" + age)
 
-#Test GitHub
+input("Enter your name: Simon")
+name = input
+
+
+
