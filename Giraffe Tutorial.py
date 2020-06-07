@@ -47,7 +47,7 @@ print("'I said \"Hi\" to him'.")
 phrase = "Giraffe Academy"
 print(phrase)
 
-phrase = "My name is Katharina"
+phrase = "My name is Prudence"
 print(phrase)
 
 phrase1 = "Summer"
@@ -119,7 +119,7 @@ print("Hello" + name + "!")
 age = input("Enter your age: ")
 print("You are" + age)
 
-input("Enter your name: Simon")
+input("Enter your name: Hope")
 name = input
 
 
